@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blubber.iml" filepath="$PROJECT_DIR$/Blubber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iface/Iface.iml" filepath="$PROJECT_DIR$/Iface/Iface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Riak/Riak.iml" filepath="$PROJECT_DIR$/Riak/Riak.iml" />
+    </modules>
+  </component>
+</project>
+
